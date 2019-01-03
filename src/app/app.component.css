@@ -1,0 +1,17 @@
+#header{
+    background-color: bisque;
+    height:100px;
+}
+
+#navigation{
+    background-color: lightcyan;
+    height: 500px;
+}
+#content{
+    background-color: lightgrey;
+    height: 500px;
+}
+#footer{
+    background-color:lightcyan;
+    height: 100px;
+}
